@@ -138,43 +138,11 @@ flutter run
 2. Karakter hakkında detaylı bilgi görün
 3. Ses butonuna basarak karakter sesini dinleyin
 
-## 🛠️ **Geliştirme**
-
-### **Yeni Soru Ekleme**
-`lib/data/question_data.dart` dosyasından yeni sorular ekleyebilirsiniz:
-
-```dart
-Question(
-  id: 'unique_id',
-  text: 'Soru metni?',
-  options: ['Seçenek 1', 'Seçenek 2', 'Seçenek 3', 'Seçenek 4'],
-  correctAnswerIndex: 0,
-  explanation: 'Cevap açıklaması',
-  category: CharacterCategory.elves,
-  difficulty: 'easy',
-),
-```
-
-### **Yeni Karakter Ekleme**
-`lib/data/character_data.dart` dosyasından yeni karakterler ekleyebilirsiniz.
 
 ## 📝 **Lisans**
 
 Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICENSE) dosyasına bakın.
 
-## 🤝 **Katkıda Bulunma**
-
-1. Projeyi fork edin
-2. Feature branch oluşturun (`git checkout -b feature/yeni-ozellik`)
-3. Değişikliklerinizi commit edin (`git commit -am 'Yeni özellik eklendi'`)
-4. Branch'i push edin (`git push origin feature/yeni-ozellik`)
-5. Pull Request oluşturun
-
-## 📞 **İletişim**
-
-Proje hakkında sorularınız için issue açabilir veya e-posta gönderebilirsiniz.
-
----
 
 **⚡ "One App to Rule Them All" ⚡**
 
