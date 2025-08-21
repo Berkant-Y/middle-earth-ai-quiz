@@ -1,0 +1,15 @@
+# Placeholder sound file - Button click
+# In a real app, this would be a short click sound effect (< 100ms)
+# Recommended format: MP3 or WAV
+# Sample rate: 44.1kHz
+# Bit depth: 16-bit
+# Duration: ~50ms
+
+# You can get free sound effects from:
+# - freesound.org
+# - zapsplat.com
+# - YouTube Audio Library
+# - pixabay.com/sound-effects/
+
+# Example content for a simple click sound:
+# A short, soft "click" or "tap" sound

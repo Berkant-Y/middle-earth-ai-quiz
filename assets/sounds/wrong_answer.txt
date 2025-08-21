@@ -1,0 +1,10 @@
+# Placeholder sound file - Wrong Answer
+# In a real app, this would be a gentle error sound
+# Recommended: A soft buzzer or negative tone
+# Duration: ~200-400ms
+
+# Example sounds:
+# - Soft buzzer
+# - Error tone
+# - Gentle "wrong" sound
+# - Negative feedback tone

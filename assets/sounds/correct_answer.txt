@@ -1,0 +1,10 @@
+# Placeholder sound file - Correct Answer
+# In a real app, this would be a pleasant success sound
+# Recommended: A short chime, bell, or "ding" sound
+# Duration: ~200-500ms
+
+# Example sounds:
+# - Success chime
+# - Bell ring
+# - Achievement sound
+# - Positive feedback tone

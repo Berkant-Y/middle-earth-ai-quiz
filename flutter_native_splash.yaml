@@ -1,0 +1,18 @@
+# flutter_native_splash configuration for LOTR Quiz App
+
+flutter_native_splash:
+  # Background color - siyah Netflix tarzı
+  color: "#000000"
+  
+  # Image tamamen kaldırıldı - sadece siyah ekran
+  image: assets/images/splash.jpg
+
+  # Platform support
+  android: true
+  ios: true
+  web: true
+  
+  # Android 12 specific settings - minimal
+  android_12:
+    color: "#000000"
+    image: assets/images/splash.jpg
